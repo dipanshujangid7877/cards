@@ -1,0 +1,62 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+
+
+
+.cards{
+    border: solid black;
+    display: inline-block;
+    width: 406px;
+    border-radius: 6px;
+    margin-left: 35px;
+    margin-top: 15px;
+    
+    
+    
+    
+    
+}
+
+.heading{
+    text-align: center;
+   
+} 
+
+.btn {
+    text-align: center;
+  
+    
+}
+.btn button{
+    border: solid black;
+    color: white;
+    background: black;
+    border-radius: 5px;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn button:hover{
+    background: orange;
+}
+
+.container p{
+    padding: 10px;
+    font-weight: 400;
+    font-size: medium;
+}
+
+
+
+
+.imagea img{
+    width:400px;
+    
+}
+
+
